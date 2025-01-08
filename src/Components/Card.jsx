@@ -5,7 +5,7 @@ function Card() {
         "https://images.unsplash.com/photo-1512446816042-444d641267d4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGFtYXpvbnxlbnwwfHwwfHx8MA%3D%3D",
       name: "Amazon Basics",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam fugit deleniti minima.",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam fugit deleniti minima chept.",
       instock: true
     },
     {
